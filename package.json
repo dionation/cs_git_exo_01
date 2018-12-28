@@ -1,0 +1,23 @@
+{
+  "name": "git_exo_intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dionation/cs_git_exo_01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dionation/cs_git_exo_01/issues"
+  },
+  "homepage": "https://github.com/dionation/cs_git_exo_01#readme",
+  "dependencies": {
+    "bootstrap": "^4.2.1"
+  }
+}
